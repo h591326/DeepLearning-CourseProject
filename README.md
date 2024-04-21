@@ -16,5 +16,5 @@ My original plan was to make a good classifier and use it on the bigger dataset.
 
 So please, I plead you, if you are going to recreate my research and model, take into consideration my mistakes (elaborated in my project report and my code from last year, called allround classifer, this one is from last year) and I recommend using a different version of the datasets that I used. I did this, but also make sure that you find a way in your dataset to label the data or images in a way. Or have the knowledge of how to navigate files, navigate images and paths together with a label.
 
-For more information or argumentation to my different approaches and choises I made, please look at my project report.
+My try this year is the code-file called base-classifier. For more information or argumentation to my different approaches and choises I made, please look at my project report.
 
