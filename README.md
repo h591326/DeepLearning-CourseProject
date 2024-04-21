@@ -1,6 +1,6 @@
 # DeepLearning-CourseProject
 
-The application, idea and the motivation behind making this project, comes from a project in the course catalog from a course I had this semester called DAT255 Deep Learning. The project stated the following and gave me the instruction and motivation I needed to start on my project.
+The application, idea and the motivation behind making this project, comes from a project in the course catalog from a course I had this semester called DAT255 Deep Learning. The same introduction and task assingment-text, was given on my last try and last spring semester of this course. The project stated the following and gave me the instruction and motivation I needed to start on my project.
 
 INTRODUCTION
 
